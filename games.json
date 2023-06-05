@@ -1,6 +1,17 @@
 {
   "games": [
     {
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/Picture3.png",
+      "title": "Data Iceberg",
+      "description": "A memory game about different types of data and how we generate data. The game consists of a deck of cards and personal boards with rectangular spaces to place pairs of cards. Each space represents a different category of data.",
+      "strategy": "Relating digital activity with data creation",
+      "category": "understanding_data",
+      "min-players": 1,
+      "max-players": 4,
+      "min-duration": 60,
+      "max-duration": 60
+    },
+    {
       "thumbnail-url": "https://picsum.photos/200?random=1",
       "title": "Wifi and data",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
@@ -21,17 +32,6 @@
       "max-players": 4,
       "min-duration": 45,
       "max-duration": 60
-    },
-    {
-      "thumbnail-url": "https://picsum.photos/200?random=3",
-      "title": "Data Iceberg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
-      "strategy": "The value of Data",
-      "category": "understanding_data",
-      "min-players": 2,
-      "max-players": 5,
-      "min-duration": 60,
-      "max-duration": 90
     }
   ]
 }
