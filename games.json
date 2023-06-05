@@ -14,6 +14,7 @@
     {
       "thumbnail-url": "https://picsum.photos/200?random=2",
       "title": "Data Takeover",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
       "strategy": "Data awareness",
       "category": "understanding_data",
       "min-players": 4,
