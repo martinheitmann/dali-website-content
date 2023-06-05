@@ -1,7 +1,7 @@
 {
   "games": [
     {
-      "thumbnailUrl": "https://picsum.photos/200?random=1",
+      "thumbnail-url": "https://picsum.photos/200?random=1",
       "title": "Wifi and data",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
@@ -12,7 +12,7 @@
       "max-duration": 30
     },
     {
-      "thumbnailUrl": "https://picsum.photos/200?random=2",
+      "thumbnail-url": "https://picsum.photos/200?random=2",
       "title": "Data Takeover",
       "strategy": "Data awareness",
       "category": "understanding_data",
@@ -22,7 +22,7 @@
       "max-duration": 60
     },
     {
-      "thumbnailUrl": "https://picsum.photos/200?random=3",
+      "thumbnail-url": "https://picsum.photos/200?random=3",
       "title": "Data Iceberg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
       "strategy": "The value of Data",
