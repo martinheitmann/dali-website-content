@@ -30,8 +30,8 @@
       "category": "understanding_data",
       "min-players": 3,
       "max-players": 5,
-      "min-duration": 45,
-      "max-duration": 60
+      "min-duration": 15,
+      "max-duration": 20
     }
   ]
 }
