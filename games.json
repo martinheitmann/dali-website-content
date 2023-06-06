@@ -9,7 +9,10 @@
       "min-players": 1,
       "max-players": 4,
       "min-duration": 60,
-      "max-duration": 60
+      "max-duration": 60,
+      "game-type": "digital",
+      "ref": "https://view.genial.ly/63e231a931b82900103beadc/interactive-content-the-data-iceberg-rev20",
+      "downloadables": []
     },
     {
       "thumbnail-url": "https://picsum.photos/200?random=1",
@@ -20,7 +23,10 @@
       "min-players": 1,
       "max-players": 5,
       "min-duration": 30,
-      "max-duration": 30
+      "max-duration": 30,
+      "game-type": "printable",
+      "ref": null,
+      "downloadables": []
     },
     {
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/Picture4-e1686043331282.png",
@@ -31,7 +37,29 @@
       "min-players": 3,
       "max-players": 5,
       "min-duration": 15,
-      "max-duration": 20
+      "max-duration": 20,
+      "game-type": "printable",
+      "ref": null,
+      "downloadables": [
+        {
+          "name": "Printable Game",
+          "mimeType": "application/pdf",
+          "filename": "printable_version.pdf",
+          "url": "https://dalicitizens.eu"
+        },
+        {
+          "name": "Facilitators' Manual",
+          "mimeType": "application/pdf",
+          "filename": "facilitators_manual.pdf",
+          "url": "https://dalicitizens.eu"
+        },
+        {
+          "name": "Extension Pack 1",
+          "mimeType": "application/pdf",
+          "filename": "extension_pack_1.pdf",
+          "url": "https://dalicitizens.eu"
+        }
+      ]
     }
   ]
 }
