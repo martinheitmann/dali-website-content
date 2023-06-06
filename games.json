@@ -23,13 +23,13 @@
       "max-duration": 30
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=2",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/Picture4-e1686043331282.png",
       "title": "Data Takeover",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
+      "description": "As the CEO of a global technology corporation, your goal is to generate as much profit (RealCoins) as possible for your shareholders. Your business model relies on extracting personal data (DataNuggets) from the users of the online platforms you own in order to earn wealth (RealCoins) from other companies contracting your target advertisement services. Your success will be determined by both assets that can work in your advantage and also liabilities that will reduce your power and, ultimately, your wealth. Remember, you do have the ability to bluff your way through the game, but choose your moments wisely. Other players may grow suspicious of you and can challenge you to see if you’re in a web of lies. In order to win, you will need to accrue wealth to take your competitors out of business.",
       "strategy": "Data awareness",
       "category": "understanding_data",
-      "min-players": 4,
-      "max-players": 4,
+      "min-players": 3,
+      "max-players": 5,
       "min-duration": 45,
       "max-duration": 60
     }
