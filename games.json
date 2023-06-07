@@ -15,7 +15,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=1",
+      "thumbnail-url": "https://picsum.photos/200?random=123",
       "title": "Wifi and data",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
@@ -60,6 +60,104 @@
           "url": "https://dalicitizens.eu"
         }
       ]
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=105",
+      "title": "Wifi and data",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "acting_on_data",
+      "min-players": 2,
+      "max-players": 4,
+      "min-duration": 15,
+      "max-duration": 45,
+      "game-type": "printable",
+      "ref": null,
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=111",
+      "title": "Wifi and data",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "engaging_through_data",
+      "min-players": 2,
+      "max-players": 2,
+      "min-duration": 10,
+      "max-duration": 20,
+      "game-type": "digital",
+      "ref": "https://dalicitizens.eu",
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=52",
+      "title": "Wifi and data",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "acting_on_data",
+      "min-players": 1,
+      "max-players": 1,
+      "min-duration": 45,
+      "max-duration": 60,
+      "game-type": "printable",
+      "ref": null,
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=34",
+      "title": "Wifi and data",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "engaging_through_data",
+      "min-players": 2,
+      "max-players": 2,
+      "min-duration": 10,
+      "max-duration": 20,
+      "game-type": "printable",
+      "ref": null,
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=652",
+      "title": "Wifi and data",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "acting_on_data",
+      "min-players": 3,
+      "max-players": 3,
+      "min-duration": 20,
+      "max-duration": 20,
+      "game-type": "printable",
+      "ref": null,
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=87",
+      "title": "Wifi and data",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "understanding_data",
+      "min-players": 1,
+      "max-players": 5,
+      "min-duration": 30,
+      "max-duration": 30,
+      "game-type": "printable",
+      "ref": null,
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=111",
+      "title": "Wifi and data",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel metus at ex suscipit mattis dictum fermentum ipsum. Etiam vel ullamcorper est, vitae tincidunt lacus. Duis ultrices ullamcorper tortor egestas euismod. Pellentesque eu risus ut justo vulputate varius. Nam feugiat, felis et interdum suscipit, nulla quam facilisis leo, elementum semper nunc erat eget orci.",
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "engaging_through_data",
+      "min-players": 2,
+      "max-players": 4,
+      "min-duration": 5,
+      "max-duration": 15,
+      "game-type": "digital",
+      "ref": "https://dalicitizens.eu",
+      "downloadables": []
     }
   ]
 }
