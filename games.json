@@ -3,7 +3,7 @@
     {
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/Picture3-1-e1685979065791.png",
       "title": "Data Iceberg",
-      "description": "A memory game about different types of data and how we generate data. The game consists of a deck of cards and personal boards with rectangular spaces to place pairs of cards. Each space represents a different category of data.",
+      "description": "A memory game where players learn about data by recognising and categorising different types of data in a variety of everyday situations.",
       "strategy": "Relating digital activity with data creation",
       "category": "understanding_data",
       "min-players": 1,
