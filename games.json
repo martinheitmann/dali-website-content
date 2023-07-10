@@ -18,6 +18,7 @@
       "thumbnail-url": "https://picsum.photos/200?random=123",
       "title": "Wifi and data!",
       "description": "A board and card game adapting the well-known Snake and Ladders board game. This game trains a basic understanding of data use and data value.",
+      "long-description": "This board and card game trains a basic understanding of data by posing knowledge or situation questions players need to answer, and by posing small tasks dealing with data in everyday life. By playing this game, you become aware that data is everywhere, that it has a value, and that it can be used for multiple purposes. Wifi & Data is made up of a board, playing figures, a dice and a deck of 60 knowledge/situation/action cards. The game board shows Wifi symbols (ladders) and cables (snakes) that determine the players' performance when stepping on them. Additionally, when stepping on a symbol representing the 3 different types of cards, players need to take the corresponding card and answer it or fulfil a given task. Only when giving an appropriate answer / fulfilling the task, players can move their figure the number of positions shown by the dice. The winner is who first reaches the final position on the board. Material can easily be printed in b/w in A4 (instructions) and A3 (board, deck of cards)."
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
       "category": "understanding_data",
       "min-players": 2,
@@ -32,6 +33,7 @@
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/Picture4-e1686043331282.png",
       "title": "Data Takeover",
       "description": "A card game designed to illustrate data extraction and monetization, with a hint of roleplay!",
+      "long-description": "'Data Takeover' is a card game in which players will be facing each other until only one remains on top. The game is designed around the monetization of data and features bluffing as a core game mechanic. The game uses a deck of cards, tokens, individual boards and a glossary."
       "strategy": "-",
       "category": "understanding_data",
       "min-players": 3,
@@ -65,6 +67,7 @@
       "thumbnail-url": "https://picsum.photos/200?random=105",
       "title": "Where is data in your story?",
       "description": "Tell a short story based on a set of 3 different cards + 1 data card that you hold in your hands.",
+      "long-description": "This game can be played competitively (who has the best story) or just for fun. It is more fun when played with a bigger group of people (minimum 5). In each round, players tell a story based on a set of 4 cards they hold in their hands. One of those cards is a data related card that determines the connection of your story to data."
       "strategy": "-",
       "category": "engaging_through_data",
       "min-players": 2,
@@ -79,6 +82,7 @@
       "thumbnail-url": "https://picsum.photos/200?random=111",
       "title": "Daliopoly",
       "description": "Collect sets of cards and defeat your opponents in a card game that stimulates conversations around data literacy.",
+      "long-description": "Daliopoly is a card game designed to generate conversations around data literacy.  Collect sets of data literacy artefacts to gain additional powers, and impede your opponents with action cards."
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
       "category": "understanding_data",
       "min-players": 2,
@@ -93,6 +97,7 @@
       "thumbnail-url": "https://picsum.photos/200?random=52",
       "title": "Game of Phones",
       "description": "Discover more about your friends and online content in this fun card game.",
+      "long-description": "Game of Phones is a round-based card game designed to promote citizenship. The game asks players to find specific items online in the form of images, videos, websites, and music tracks, which are important to them. This not only helps improve players online knowledge, but also greatly enhances their awareness of each others lives."
       "strategy": "-",
       "category": "understanding_data",
       "min-players": 2,
@@ -107,6 +112,7 @@
       "thumbnail-url": "https://picsum.photos/200?random=34",
       "title": "Protearn your data",
       "description": "A board and card game about collecting, identifying and protecting data.",
+      "long-description": "'Protearn your data' is a game designed around the concepts of data collection and protection. It also aims to sensitize players to be particularly careful with certain behaviors when interacting with connected objects, and raise their awareness on data privacy."
       "strategy": "-",
       "category": "acting_on_data",
       "min-players": 2,
@@ -121,6 +127,7 @@
       "thumbnail-url": "https://picsum.photos/200?random=652",
       "title": "Data Chain",
       "description": "A 2v2 card game about data activism where data brokers play against data activists.",
+      "long-description": "'Data Chain' is a card game featuring data activists and data brokers. The game uses a deck of cards, with an optional glossary. With a large variety of data-related terms, the game aims to make the players familiar with said terms and help them understand that no one is powerless when it comes to data ethics and privacy."
       "strategy": "-",
       "category": "engaging_through_data",
       "min-players": 4,
@@ -133,13 +140,14 @@
     },
     {
       "thumbnail-url": "https://picsum.photos/200?random=87",
-      "title": "Deep Data Connections",
-      "description": "Nulla porttitor justo ut dolor malesuada pharetra eget sit amet purus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras eu est nulla. Fusce porttitor, turpis et posuere scelerisque, orci tortor venenatis libero, vel feugiat diam nisi ut nunc. Aliquam tincidunt sapien at quam semper sodales. Vestibulum sed ultrices ex, vitae mattis elit. Cras augue metus, commodo vel tellus quis, viverra elementum odio. Donec eget sagittis lacus. Aliquam eleifend lobortis ante, et rhoncus purus efficitur ac. In hac habitasse platea dictumst. Donec tincidunt, felis vel cursus lacinia, velit leo laoreet tellus, vel congue tortor eros tempus.",
-      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "title": "Databi",
+      "description": "Dive into the world of data and collaborative with your team to unlock its potential in DATABI, the cooperative game in which you decipher clues!",
+      "long-description": "'Databi' is a collaborative card game that explores the power of data by challenging players to build together card sequences based on clues provided by their peers. Unlock the potential of data as you decipher examples of its usage at different processing levels, fostering understanding and influence among players."
+      "strategy": "-",
       "category": "understanding_data",
-      "min-players": 1,
-      "max-players": 5,
-      "min-duration": 30,
+      "min-players": 2,
+      "max-players": 6,
+      "min-duration": 15,
       "max-duration": 30,
       "game-type": "printable",
       "ref": null,
@@ -147,14 +155,75 @@
     },
     {
       "thumbnail-url": "https://picsum.photos/200?random=111",
-      "title": "Cloud Cavern",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet libero ligula. Morbi posuere id justo eu faucibus. Phasellus interdum scelerisque eros at euismod. Morbi ac tincidunt justo. Fusce vestibulum vitae nunc eget fringilla. Pellentesque hendrerit odio quam, quis finibus nunc aliquam ac. Duis egestas pharetra blandit. Interdum et.",
+      "title": "DALIcious Week",
+      "description": "Manage the data about your time, create your ideal week, and strive for balance in DALIcious Week, the card game where you juggle energy, rest, exercise, and love to achieve your goals!",
+      "long-description": "'DALIcious Week' is a card game to train and practice how to manually insert data in a simple format while we reflect together about the importance of quality time in our life. An opportunity to reflect on the data regarding the time we invest in the important things of life, while we try to complete our ideal week of leaisure sharing good and bad momments with the other players."
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
       "category": "engaging_through_data",
       "min-players": 2,
-      "max-players": 4,
+      "max-players": 8,
+      "min-duration": 10,
+      "max-duration": 25,
+      "game-type": "printable",
+      "ref": "https://dalicitizens.eu",
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=87",
+      "title": "DALI Life",
+      "description": "Race your friends to the finish in this board game which stimulates conversation around data literacy.",
+      "long-description": "DALI Life is a tactical board game designed to increase players data literacy knowledge, and generate conversation around it.  Players race each other around the board, drawing event cards that can positively or negatively affect their game.  They can also play action cards to enhance their chances of winning, or impede their opponents progress."
+      "strategy": "-",
+      "category": "understanding_data",
+      "min-players": 2,
+      "max-players": 6,
+      "min-duration": 15,
+      "max-duration": 30,
+      "game-type": "printable",
+      "ref": null,
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=111",
+      "title": "Data Iceberg",
+      "description": "A web game to train players to recognize different types of data",
+      "long-description": "'Data Iceberg' is a quiz game where players learn to recognize and categorise different types of data. It is a great introduction to the DALI card and board game of the same name. Recognizing data categories is a fundamental skill for anyone starting their data literacy journey, this web game can be used to train beginners and test the knowledge of more advanced users."
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "understanding_data",
+      "min-players": 1,
+      "max-players": 1,
       "min-duration": 5,
-      "max-duration": 15,
+      "max-duration": 10,
+      "game-type": "digital",
+      "ref": "https://dalicitizens.eu",
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=111",
+      "title": "Escape from Alcatracks",
+      "description": "-",
+      "long-description": "-"
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "engaging_through_data",
+      "min-players": 1,
+      "max-players": 1,
+      "min-duration": 5,
+      "max-duration": 10,
+      "game-type": "digital",
+      "ref": "https://dalicitizens.eu",
+      "downloadables": []
+    },
+    {
+      "thumbnail-url": "https://picsum.photos/200?random=111",
+      "title": "Databox",
+      "description": "A web game designed for PC & VR, inviting the player in an immersive world dedicated to data.",
+      "long-description": "'Databox' is an immersive web mini-game designed to teach the fundamentals of the data lifecycle, from collection to visualization, through treatment and analysis. The environment becomes more complex as the game goes on and the players' knowledge is being challenged after a concept has been introduced."
+      "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
+      "category": "understanding_data",
+      "min-players": 1,
+      "max-players": 1,
+      "min-duration": 10,
+      "max-duration": 20,
       "game-type": "digital",
       "ref": "https://dalicitizens.eu",
       "downloadables": []
