@@ -4,6 +4,7 @@
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_iceberg_test.png",
       "title": "Data Iceberg",
       "description": "A memory game where players learn about data by recognising and categorising different types of data in a variety of everyday situations.",
+      "long-description": "'Data Iceberg' is a memory game teaching players to recognize and categorize different types of data. The game uses a deck of cards and personal boards (A3) with rectangular spaces to place pairs of cards. Each space represents a different category of data. Teamwork and discussions are heavily encouraged!",
       "category": "understanding_data",
       "min-players": 2,
       "max-players": 4,
