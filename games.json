@@ -8,9 +8,9 @@
       "category": "understanding_data",
       "min-players": 1,
       "max-players": 4,
-      "min-duration": 60,
-      "max-duration": 60,
-      "game-type": "digital",
+      "min-duration": 30,
+      "max-duration": 45,
+      "game-type": "printable",
       "ref": "https://view.genial.ly/63e231a931b82900103beadc/interactive-content-the-data-iceberg-rev20",
       "downloadables": []
     },
