@@ -201,8 +201,8 @@
     {
       "thumbnail-url": "https://picsum.photos/200?random=111",
       "title": "Escape from Alcatracks",
-      "description": "-",
-      "long-description": "-"
+      "description": "Something, something, something, something",
+      "long-description": "Something, something, something, something"
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
       "category": "engaging_through_data",
       "min-players": 1,
