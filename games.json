@@ -79,7 +79,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=111",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/daliopoly_thumbnail.png",
       "title": "Daliopoly",
       "description": "Collect sets of cards and defeat your opponents in a card game that stimulates conversations around data literacy.",
       "long-description": "Daliopoly is a card game designed to generate conversations around data literacy.  Collect sets of data literacy artefacts to gain additional powers, and impede your opponents with action cards."
@@ -94,7 +94,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=52",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/game_of_phones_thumbnail.png",
       "title": "Game of Phones",
       "description": "Discover more about your friends and online content in this fun card game.",
       "long-description": "Game of Phones is a round-based card game designed to promote citizenship. The game asks players to find specific items online in the form of images, videos, websites, and music tracks, which are important to them. This not only helps improve players online knowledge, but also greatly enhances their awareness of each others lives."
