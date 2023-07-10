@@ -269,7 +269,7 @@
       "max-players": 6,
       "min-duration": 60,
       "max-duration": 60,
-      "game-type": "digital",
+      "game-type": "printable",
       "ref": "https://dalicitizens.eu",
       "downloadables": []
     }
