@@ -185,7 +185,7 @@
     },
     {
       "thumbnail-url": "https://picsum.photos/200?random=111",
-      "title": "Data Iceberg",
+      "title": "(Web) Data Iceberg",
       "description": "A web game to train players to recognize different types of data",
       "long-description": "'Data Iceberg' is a quiz game where players learn to recognize and categorise different types of data. It is a great introduction to the DALI card and board game of the same name. Recognizing data categories is a fundamental skill for anyone starting their data literacy journey, this web game can be used to train beginners and test the knowledge of more advanced users."
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
