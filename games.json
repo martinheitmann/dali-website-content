@@ -4,8 +4,6 @@
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_iceberg_test.png",
       "title": "Data Iceberg",
       "description": "A memory game where players learn about data by recognising and categorising different types of data in a variety of everyday situations.",
-      # add long-description variable here - 'Data Iceberg' is a memory game teaching players to recognize and categorize different types of data. The game uses a deck of cards and personal boards (A3) with rectangular spaces to place pairs of cards. Each space represents a different category of data. Teamwork and discussions are heavily encouraged!
-      "strategy": "Relating digital activity with data creation",
       "category": "understanding_data",
       "min-players": 2,
       "max-players": 4,
@@ -19,7 +17,6 @@
       "thumbnail-url": "https://picsum.photos/200?random=123",
       "title": "Wifi and data!",
       "description": "A board and card game adapting the well-known Snake and Ladders board game. This game trains a basic understanding of data use and data value.",
-      # add long-description variable here - This board and card game trains a basic understanding of data by posing knowledge or situation questions players need to answer, and by posing small tasks dealing with data in everyday life. By playing this game, you become aware that data is everywhere, that it has a value, and that it can be used for multiple purposes. Wifi & Data is made up of a board, playing figures, a dice and a deck of 60 knowledge/situation/action cards. The game board shows Wifi symbols (ladders) and cables (snakes) that determine the players' performance when stepping on them. Additionally, when stepping on a symbol representing the 3 different types of cards, players need to take the corresponding card and answer it or fulfil a given task. Only when giving an appropriate answer / fulfilling the task, players can move their figure the number of positions shown by the dice. The winner is who first reaches the final position on the board. Material can easily be printed in b/w in A4 (instructions) and A3 (board, deck of cards).
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
       "category": "understanding_data",
       "min-players": 2,
@@ -34,7 +31,6 @@
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/Picture4-e1686043331282.png",
       "title": "Data Takeover",
       "description": "A card game designed to illustrate data extraction and monetization, with a hint of roleplay!",
-      # add long-description variable here - 'Data Takeover' is a card game in which players will be facing each other until only one remains on top. The game is designed around the monetization of data and features bluffing as a core game mechanic. The game uses a deck of cards, tokens, individual boards and a glossary.
       "strategy": "-",
       "category": "understanding_data",
       "min-players": 3,
@@ -68,7 +64,6 @@
       "thumbnail-url": "https://picsum.photos/200?random=105",
       "title": "Where is data in your story?",
       "description": "Tell a short story based on a set of 3 different cards + 1 data card that you hold in your hands.",
-      # add long-description variable here - This game can be played competitively (who has the best story) or just for fun. It is more fun when played with a bigger group of people (minimum 5). In each round, players tell a story based on a set of 4 cards they hold in their hands. One of those cards is a data related card that determines the connection of your story to data.
       "strategy": "-",
       "category": "engaging_through_data",
       "min-players": 2,
@@ -83,7 +78,6 @@
       "thumbnail-url": "https://picsum.photos/200?random=111",
       "title": "Daliopoly",
       "description": "Collect sets of cards and defeat your opponents in a card game that stimulates conversations around data literacy.",
-       # add long-description variable here - Daliopoly is a card game designed to generate conversations around data literacy.  Collect sets of data literacy artefacts to gain additional powers, and impede your opponents with action cards.
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
       "category": "",
       "min-players": 2,
@@ -98,7 +92,6 @@
       "thumbnail-url": "https://picsum.photos/200?random=52",
       "title": "Game of Phones",
       "description": "Discover more about your friends and online content in this fun card game.",
-      # add long-description variable here - Game of Phones is a round-based card game designed to promote citizenship. The game asks players to find specific items online in the form of images, videos, websites, and music tracks, which are important to them. This not only helps improve players online knowledge, but also greatly enhances their awareness of each others lives.
       "strategy": "-",
       "category": "",
       "min-players": 2,
@@ -113,7 +106,6 @@
       "thumbnail-url": "https://picsum.photos/200?random=34",
       "title": "Protearn your data",
       "description": "A board and card game about collecting, identifying and protecting data.",
-      # add long-description variable here - 'Protearn your data' is a game designed around the concepts of data collection and protection. It also aims to sensitize players to be particularly careful with certain behaviors when interacting with connected objects, and raise their awareness on data privacy.
       "strategy": "-",
       "category": "acting_on_data",
       "min-players": 2,
@@ -128,7 +120,6 @@
       "thumbnail-url": "https://picsum.photos/200?random=652",
       "title": "Data Chain",
       "description": "A 2v2 card game about data activism where data brokers play against data activists.",
-      # add long-description variable here - 'Data Chain' is a card game featuring data activists and data brokers. The game uses a deck of cards, with an optional glossary. With a large variety of data-related terms, the game aims to make the players familiar with said terms and help them understand that no one is powerless when it comes to data ethics and privacy.
       "strategy": "-",
       "category": "engaging_through_data",
       "min-players": 4,
