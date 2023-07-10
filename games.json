@@ -1,7 +1,7 @@
 {
   "games": [
     {
-      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/Picture3-1-e1685979065791.png",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_iceberg_test.png",
       "title": "Data Iceberg",
       "description": "A memory game where players learn about data by recognising and categorising different types of data in a variety of everyday situations.",
       "strategy": "Relating digital activity with data creation",
