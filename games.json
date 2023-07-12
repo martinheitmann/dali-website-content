@@ -117,8 +117,8 @@
       "category": "acting_on_data",
       "min-players": 2,
       "max-players": 4,
-      "min-duration": 20,
-      "max-duration": 30,
+      "min-duration": 45,
+      "max-duration": 60,
       "game-type": "printable",
       "ref": null,
       "downloadables": []
