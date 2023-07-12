@@ -30,7 +30,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/Picture4-e1686043331282.png",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_takeover_thumbnail.png",
       "title": "Data Takeover",
       "description": "A card game designed to illustrate data extraction and monetization, with a hint of roleplay!",
       "long-description": "'Data Takeover' is a card game in which players will be facing each other until only one remains on top. The game is designed around the monetization of data and features bluffing as a core game mechanic. The game uses a deck of cards, tokens, individual boards and a glossary.",
@@ -109,7 +109,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=34",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/protearn_your_data_thumbnail.png",
       "title": "Protearn your data",
       "description": "A board and card game about collecting, identifying and protecting data.",
       "long-description": "'Protearn your data' is a game designed around the concepts of data collection and protection. It also aims to sensitize players to be particularly careful with certain behaviors when interacting with connected objects, and raise their awareness on data privacy.",
@@ -124,7 +124,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=652",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_chain_thumbnail.png",
       "title": "Data Chain",
       "description": "A 2v2 card game about data activism where data brokers play against data activists.",
       "long-description": "'Data Chain' is a card game featuring data activists and data brokers. The game uses a deck of cards, with an optional glossary. With a large variety of data-related terms, the game aims to make the players familiar with said terms and help them understand that no one is powerless when it comes to data ethics and privacy.",
@@ -139,7 +139,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=14",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databi_thumbnail.png",
       "title": "Databi",
       "description": "Dive into the world of data and collaborative with your team to unlock its potential in DATABI, the cooperative game in which you decipher clues!",
       "long-description": "'Databi' is a collaborative card game that explores the power of data by challenging players to build together card sequences based on clues provided by their peers. Unlock the potential of data as you decipher examples of its usage at different processing levels, fostering understanding and influence among players.",
@@ -154,7 +154,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=29",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dalicious_week_thumbnail.png",
       "title": "DALIcious Week",
       "description": "Manage the data about your time, create your ideal week, and strive for balance in DALIcious Week, the card game where you juggle energy, rest, exercise, and love to achieve your goals!",
       "long-description": "'DALIcious Week' is a card game to train and practice how to manually insert data in a simple format while we reflect together about the importance of quality time in our life. An opportunity to reflect on the data regarding the time we invest in the important things of life, while we try to complete our ideal week of leaisure sharing good and bad momments with the other players.",
@@ -169,7 +169,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=10",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_life_thumbnail.png",
       "title": "DALI Life",
       "description": "Race your friends to the finish in this board game which stimulates conversation around data literacy.",
       "long-description": "DALI Life is a tactical board game designed to increase players data literacy knowledge, and generate conversation around it.  Players race each other around the board, drawing event cards that can positively or negatively affect their game.  They can also play action cards to enhance their chances of winning, or impede their opponents progress.",
@@ -184,7 +184,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=68",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_iceberg_web_thumbnail.png",
       "title": "Data Iceberg",
       "description": "A web game to train players to recognize different types of data",
       "long-description": "'Data Iceberg' is a quiz game where players learn to recognize and categorise different types of data. It is a great introduction to the DALI card and board game of the same name. Recognizing data categories is a fundamental skill for anyone starting their data literacy journey, this web game can be used to train beginners and test the knowledge of more advanced users.",
