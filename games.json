@@ -15,7 +15,7 @@
       "downloadables": []
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=123",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/wifi_and_data_thumbnail.png",
       "title": "Wifi and data!",
       "description": "A board and card game adapting the well-known Snake and Ladders board game. This game trains a basic understanding of data use and data value.",
       "long-description": "This board and card game trains a basic understanding of data by posing knowledge or situation questions players need to answer, and by posing small tasks dealing with data in everyday life. By playing this game, you become aware that data is everywhere, that it has a value, and that it can be used for multiple purposes. Wifi & Data is made up of a board, playing figures, a dice and a deck of 60 knowledge/situation/action cards. The game board shows Wifi symbols (ladders) and cables (snakes) that determine the players' performance when stepping on them. Additionally, when stepping on a symbol representing the 3 different types of cards, players need to take the corresponding card and answer it or fulfil a given task. Only when giving an appropriate answer / fulfilling the task, players can move their figure the number of positions shown by the dice. The winner is who first reaches the final position on the board. Material can easily be printed in b/w in A4 (instructions) and A3 (board, deck of cards).",
@@ -47,7 +47,7 @@
           "name": "Printable Game",
           "mimeType": "application/pdf",
           "filename": "printable_version.pdf",
-          "url": "https://dalicitizens.eu"
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_takeover_thumbnail.png"
         },
         {
           "name": "Facilitators' Manual",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "thumbnail-url": "https://picsum.photos/200?random=105",
+      "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/where_is_data_in_your_story_thumbnail.png",
       "title": "Where is data in your story?",
       "description": "Tell a short story based on a set of 3 different cards + 1 data card that you hold in your hands.",
       "long-description": "This game can be played competitively (who has the best story) or just for fun. It is more fun when played with a bigger group of people (minimum 5). In each round, players tell a story based on a set of 4 cards they hold in their hands. One of those cards is a data related card that determines the connection of your story to data.",
