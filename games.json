@@ -70,7 +70,7 @@
       "long-description": "This game can be played competitively (who has the best story) or just for fun. It is more fun when played with a bigger group of people (minimum 5). In each round, players tell a story based on a set of 4 cards they hold in their hands. One of those cards is a data related card that determines the connection of your story to data.",
       "strategy": "-",
       "category": "engaging_through_data",
-      "min-players": 2,
+      "min-players": 5,
       "max-players": 8,
       "min-duration": 20,
       "max-duration": 30,
