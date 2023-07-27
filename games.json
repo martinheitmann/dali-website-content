@@ -45,21 +45,21 @@
       "downloadables": [
         {
           "name": "Printable Game",
-          "mimeType": "application/pdf",
-          "filename": "printable_version.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_takeover_thumbnail.png"
+          "mimeType": "text/plain",
+          "filename": "printable_version.txt",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/lorem.txt"
         },
         {
           "name": "Facilitators' Manual",
           "mimeType": "application/pdf",
           "filename": "facilitators_manual.pdf",
-          "url": "https://dalicitizens.eu"
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
         },
         {
           "name": "Extension Pack 1",
           "mimeType": "application/pdf",
           "filename": "extension_pack_1.pdf",
-          "url": "https://dalicitizens.eu"
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
         }
       ]
     },
