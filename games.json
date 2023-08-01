@@ -201,8 +201,8 @@
     {
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape_from_alcatracks_thumbnail.png",
       "title": "Escape from Alcatracks",
-      "description": "Something, something, something, something",
-      "long-description": "Something, something, something, something",
+      "description": "A web game to teach players how to adjust their privacy settings in the web browsers they are using.",
+      "long-description": "Because web browsers are the main gateway to internet navigation, a user's privacy is often determined by their knowledge of their browser's settings. 'Escape from Alcatracks' invites the players to change the privacy settings on their web browser. Guides are included in the form of links for the most used browsers inside of the game.",
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
       "category": "engaging_through_data",
       "min-players": 1,
