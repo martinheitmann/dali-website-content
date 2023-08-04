@@ -261,7 +261,7 @@
     {
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape_room_thumbnail2.png",
       "title": "Escape Room",
-      "description": "Solve paper-based puzzles and uncover a billionaires secret password in this team-based ecsape room activity.",
+      "description": "Solve paper-based puzzles and uncover a billionaires secret password in this team-based escape room activity.",
       "long-description": "The Dali Escape Room is a data literacy themed experience in which a team of players attempt to solve a series if paper-based puzzles in order to uncover a billionaires secret password. The game is played against the clock and requires a facilitator to guide the players actions.",
       "strategy": "Manage data from diverse sources with specific software; Carry out complex operations with data (pivot tables, etc.).",
       "category": "understanding_data",
