@@ -1,6 +1,7 @@
 {
   "games": [
     {
+      "id": "game-dali-data-iceberg-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_iceberg_thumbnail.png",
       "title": "Data Iceberg",
       "description": "A memory game where players learn about data by recognising and categorising different types of data in a variety of everyday situations.",
@@ -15,6 +16,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-wifi-and-data-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/wifi_and_data_thumbnail2.png",
       "title": "Wifi and data!",
       "description": "A board and card game adapting the well-known Snake and Ladders board game. This game trains a basic understanding of data use and data value.",
@@ -30,6 +32,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-data-takeover-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_takeover_thumbnail.png",
       "title": "Data Takeover",
       "description": "A card game designed to illustrate data extraction and monetization, with a hint of roleplay!",
@@ -64,6 +67,7 @@
       ]
     },
     {
+      "id": "game-dali-where-is-data-in-your-story-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/where_is_data_in_your_story_thumbnail2.png",
       "title": "Where is data in your story?",
       "description": "Tell a short story based on a set of 3 different cards + 1 data card that you hold in your hands.",
@@ -79,6 +83,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-daliopoly-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/daliopoly_thumbnail2.png",
       "title": "Daliopoly",
       "description": "Collect sets of cards and defeat your opponents in a card game that stimulates conversations around data literacy.",
@@ -94,6 +99,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-game-of-phones-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/game_of_phones_thumbnail2.png",
       "title": "Game of Phones",
       "description": "Discover more about your friends and online content in this fun card game.",
@@ -109,6 +115,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-protearn-your-data-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/protearn_your_data_thumbnail2.png",
       "title": "Protearn your data",
       "description": "A board and card game about collecting, identifying and protecting data.",
@@ -124,6 +131,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-data-chain-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_chain_thumbnail.png",
       "title": "Data Chain",
       "description": "A 2v2 card game about data activism where data brokers play against data activists.",
@@ -139,6 +147,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-databi-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databi_thumbnail2.png",
       "title": "Databi",
       "description": "Dive into the world of data and collaborative with your team to unlock its potential in DATABI, the cooperative game in which you decipher clues!",
@@ -154,6 +163,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-dalicious-week-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dalicious_week_thumbnail2.png",
       "title": "DALIcious Week",
       "description": "Manage the data about your time, create your ideal week, and strive for balance in DALIcious Week, the card game where you juggle energy, rest, exercise, and love to achieve your goals!",
@@ -169,6 +179,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-dali-life-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dali_life_thumbnail.png",
       "title": "DALI Life",
       "description": "Race your friends to the finish in this board game which stimulates conversation around data literacy.",
@@ -184,6 +195,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-data-iceberg-002",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/data_iceberg_web_thumbnail.png",
       "title": "Data Iceberg",
       "description": "A web game to train players to recognize different types of data",
@@ -199,6 +211,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-escape-from-alcatracks-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape_from_alcatracks_thumbnail.png",
       "title": "Escape from Alcatracks",
       "description": "A web game to teach players how to adjust their privacy settings in the web browsers they are using.",
@@ -214,6 +227,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-databox-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox_thumbnail.png",
       "title": "Databox",
       "description": "A web game designed for PC & VR, inviting the player in an immersive world dedicated to data.",
@@ -229,6 +243,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-datawheel-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel_thumbnail.png",
       "title": "DataWheel",
       "description": "A mini game designed for helping players to formulate intermediate knowledge in data.",
@@ -244,6 +259,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-datafy-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy_thumbnail.png",
       "title": "DataFy",
       "description": "A mini quizz game that helps players understand the fundamental principles of data.",
@@ -259,6 +275,7 @@
       "downloadables": []
     },
     {
+      "id": "game-dali-escape-room-001",
       "thumbnail-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape_room_thumbnail2.png",
       "title": "Escape Room",
       "description": "Solve paper-based puzzles and uncover a billionaires secret password in this team-based escape room activity.",
