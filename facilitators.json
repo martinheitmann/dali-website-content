@@ -1,28 +1,34 @@
 {
   "contents": [
     {
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis congue eros. Nulla vitae massa urna. Etiam ullamcorper tristique urna, et faucibus nunc tristique in. Ut dapibus odio at fermentum dignissim. In interdum rhoncus magna viverra efficitur. Etiam ut maximus lorem, sit amet lobortis turpis. Sed vitae ipsum sapien.",
+      "header": "Facilitators and the DALI project",
+      "text": "Games created through the DALI project are educational games: their primary goal is to make learning a fun experience to optimize knowledge retention. The DALI games have been created so that players can play independently of outside help while also benefiting fully from it: entering the role of facilitator.",
       "image-url": "https://picsum.photos/id/7/200",
-      "align-image": "right",
-      "align-text": "center",
       "image-width": 150,
       "image-height": 150
     },
     {
-      "text": "Suspendisse consectetur quam vitae augue sagittis, quis dignissim nunc dictum. Nunc lacinia leo ac dignissim molestie. Vivamus nunc leo, facilisis non justo et, ornare auctor risus. Ut placerat leo ut dui bibendum placerat. Sed at vulputate augue. Fusce et diam maximus, suscipit mauris nec, feugiat orci. Nullam nec quam sit amet orci consequat auctor. Nam tristique tortor nunc, eget eleifend nisl vestibulum sit amet. Praesent porta nulla libero, in efficitur risus sodales nec. Maecenas et purus sit amet odio elementum congue sit amet id velit. Vivamus tempus lacus nec ante sodales commodo. Sed pharetra bibendum nisl quis dignissim. Vestibulum eu augue eu ex convallis cursus ac vitae metus. Nam mauris est, ultrices ac porttitor id, tristique a sem.",
+      "text": "Facilitators guarantee that the players are benefiting from the pedagogical aspects of the game they are playing during a game session. They can act as organizers, as referees, as helpers or simple observers. The stance of the facilitator depends entirely on the type of game session being organized, the target audience, their skill level and the goal set for said game session.",
       "image-url": "https://picsum.photos/id/20/200",
-      "align-image": "left",
-      "align-text": "center",
       "image-width": 150,
       "image-height": 200
     },
     {
-      "text": "Nullam tempor tortor quis efficitur venenatis. Morbi hendrerit libero quis orci porttitor accumsan. Sed sem nibh, iaculis a augue vel, eleifend tempus ante. Donec tincidunt egestas arcu, sit amet gravida est iaculis vitae. Integer vel condimentum risus. Aliquam rhoncus blandit porttitor. Aliquam nibh mi, aliquet eu nulla in, elementum rhoncus sapien.",
-      "image-url": "https://picsum.photos/id/160/200",
-      "align-image": "right",
-      "image-width": 300,
-      "image-height": 300
-    }
+      "header": "Can I be a facilitator?",
+      "text": "Educators, tutors and trainers are the best suited to be facilitators, but it is not mandatory. As long as someone understands the pedagogical benefits and the rules of the educational games, understands the needs of the players and knows how to communicate with them, they can be a facilitator.",
+      "image-url": "https://picsum.photos/id/7/200",
+      "image-width": 150,
+      "image-height": 150
+    },
+    {
+      "text": "Ideally, facilitators should have played the games they intend to use in their game session: a first hand experience of the material that will be used is highly beneficial.",
+    },
+    {
+      "text": "The documents below will help facilitators to frame their training session: the facilitator’s guide gives a lot of suggestions in that regard. To learn more about the games and their pedagogical approach, facilitators can also take a look at the handbook.",
+    },
+    {
+      "text": "Both of these documents are available in English, Spanish, German and Norwegian.",
+    },
   ],
   "lang-documents": [
     {
