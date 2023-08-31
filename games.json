@@ -12,8 +12,21 @@
       "min-duration": 30,
       "max-duration": 45,
       "game-type": "printable",
-      "ref": "https://view.genial.ly/63e231a931b82900103beadc/interactive-content-the-data-iceberg-rev20",
       "ref": null,
+      "refs": [
+        {
+          "url": "https://view.genial.ly/63e231a931b82900103beadc/interactive-content-the-data-iceberg-rev20",
+          "description": "Play Data Iceberg - English"
+        },
+        {
+          "url": "https://view.genial.ly/63ea2d43abc5d7001525e555/interactive-content-data-isfjell-rev20",
+          "description": "Play Data Iceberg - Norwegian"
+        },
+        {
+          "url": "https://view.genial.ly/6411cda1bc0b58001845fb58/interactive-content-el-iceberg-de-datos",
+          "description": "Play Data Iceberg - Spanish"
+        }
+      ],
       "downloadables": []
     },
     {
