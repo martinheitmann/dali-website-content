@@ -40,16 +40,16 @@
       "display": "English",
       "documents": [
         {
-          "name": "Facilitator's Guide 1 (EN)",
+          "name": "Facilitator's Guide (EN)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide_eng_1.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
+          "filename": "facilitator_guide_EN.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitator_guide_EN.pdf.pdf"
         },
         {
-          "name": "Facilitator's Guide 2 (EN)",
+          "name": "Handbook (EN)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide_eng_2.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
+          "filename": "handbook_EN.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/handbook_EN.pdf"
         }
       ]
     },
