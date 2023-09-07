@@ -274,6 +274,12 @@
       "max-duration": 20,
       "game-type": "digital",
       "ref": "https://dalicitizens.eu",
+      "refs": [
+        {
+          "url": "https://databox.dalicitizens.eu/",
+          "description": "Play Databox"
+        }
+      ],
       "downloadables": []
     },
     {
@@ -290,6 +296,12 @@
       "max-duration": 15,
       "game-type": "digital",
       "ref": "https://dalicitizens.eu",
+      "refs": [
+        {
+          "url": "https://view.genial.ly/6419a65ac7aac80019644e89/interactive-content-engadata-wheel",
+          "description": "Play DataWheel"
+        }
+      ],
       "downloadables": []
     },
     {
@@ -306,6 +318,12 @@
       "max-duration": 10,
       "game-type": "digital",
       "ref": "https://dalicitizens.eu",
+      "refs": [
+        {
+          "url": "https://view.genial.ly/63f4cbce454bac00124735ae/interactive-content-datafy",
+          "description": "Play DataFy"
+        }
+      ],
       "downloadables": []
     },
     {
