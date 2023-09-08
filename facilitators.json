@@ -12,6 +12,7 @@
       "header": "The materials",
       "text": "The DALI Framework for Data Literacy contains four elements: (1) Understanding Data, (2) Acting on Data, (3) Engaging Through Data and (4) Ethics and privacy. The DALI framework is based on the latest standards and, inspired by the complexities of data literacy, provides a comprehensive roadmap for individuals to navigate the data-driven world effectively.",
       "image-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dali_img2.png",
+      "align-image": "right",
       "align-text": "center",
       "image-width": 150,
       "image-height": 150
@@ -19,7 +20,7 @@
     {
       "text": "The DALI Handbook is an educational guide to help you make the most of DALI resources, ensuring they are engaging and valuable. Each game is integrated into a Game-Based Networked Learning Strategy (GBNLS), containing advice on planning, implementing and evaluating the game sessions. The GBNLS will give facilitators and educators a better understanding of the pedagogical proposals that underlie the games—including their social and pedagogical design.",
       "image-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dali_img3.png",
-      "align-image": "right",
+      "align-image": "left",
       "align-text": "center",
       "image-width": 150,
       "image-height": 150
