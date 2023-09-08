@@ -1,15 +1,23 @@
 {
   "contents": [
     {
-      "header": "Facilitators and the DALI project",
-      "text": "Games created through the DALI project are educational games: their primary goal is to make learning a fun experience to optimize knowledge retention. The DALI games have been created so that players can play independently of outside help while also benefiting fully from it: entering the role of facilitator.",
+      "header": "The DALI toolkit",
+      "text": "The DALI project offers a multilingual toolkit with playful and game-based resources. The toolkit contains a set of educational games and resources addressed to adult learners and educators. The DALI games aim to encourage data literacy through game-based and flexible learning strategies. On this page, you can find resources to help facilitate playful learning using the DALI games.",
       "image-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dali_img1.png",
       "align-text": "center",
       "image-width": 150,
       "image-height": 150
     },
     {
-      "text": "Facilitators guarantee that the players are benefiting from the pedagogical aspects of the game they are playing during a game session. They can act as organizers, as referees, as helpers or simple observers. The stance of the facilitator depends entirely on the type of game session being organized, the target audience, their skill level and the goal set for said game session.",
+      "header": "The materials",
+      "text": "The DALI Framework for Data Literacy contains four elements: (1) Understanding Data, (2) Acting on Data, (3) Engaging Through Data and (4) Ethics and privacy. The DALI framework is based on the latest standards and, inspired by the complexities of data literacy, provides a comprehensive roadmap for individuals to navigate the data-driven world effectively.",
+      "image-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dali_img2.png",
+      "align-text": "center",
+      "image-width": 150,
+      "image-height": 150
+    },
+    {
+      "text": "The DALI Handbook is an educational guide to help you make the most of DALI resources, ensuring they are engaging and valuable. Each game is integrated into a Game-Based Networked Learning Strategy (GBNLS), containing advice on planning, implementing and evaluating the game sessions. The GBNLS will give facilitators and educators a better understanding of the pedagogical proposals that underlie the games—including their social and pedagogical design.",
       "image-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dali_img3.png",
       "align-image": "right",
       "align-text": "center",
@@ -17,21 +25,12 @@
       "image-height": 150
     },
     {
-      "header": "Can I be a facilitator?",
-      "text": "Educators, tutors and trainers are the best suited to be facilitators, but it is not mandatory. As long as someone understands the pedagogical benefits and the rules of the educational games, understands the needs of the players and knows how to communicate with them, they can be a facilitator.",
-      "image-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dali_img2.png",
+      "text": "The DALI Facilitator’s Guide supplements the handbook by introducing more in-depth and practical advice on activating learning before playing, during playtime and closing learning sessions when using the toolkit.",
+      "image-url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dali_img4.png",
+      "align-image": "right",
       "align-text": "center",
       "image-width": 150,
       "image-height": 150
-    },
-    {
-      "text": "Ideally, facilitators should have played the games they intend to use in their game session: a first hand experience of the material that will be used is highly beneficial."
-    },
-    {
-      "text": "The documents below will help facilitators to frame their training session: the facilitator's guide gives a lot of suggestions in that regard. To learn more about the games and their pedagogical approach, facilitators can also take a look at the handbook."
-    },
-    {
-      "text": "Both of these documents are available in English, Spanish, German and Norwegian."
     }
   ],
   "lang-documents": [
