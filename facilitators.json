@@ -50,6 +50,12 @@
           "mime-type": "application/pdf",
           "filename": "handbook_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/handbook_EN.pdf"
+        },
+        {
+          "name": "DALI framework (EN)",
+          "mime-type": "application/pdf",
+          "filename": "DALI_framework_ENG.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_framework_ENG.pdf"
         }
       ]
     },
@@ -64,10 +70,16 @@
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitator_guide_EN.pdf"
         },
         {
-          "name": "Handbook (EN)",
+          "name": "Handbook (NO)",
           "mime-type": "application/pdf",
-          "filename": "handbook_EN.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/handbook_EN.pdf"
+          "filename": "Handbook_NO.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_NO.pdf"
+        },
+        {
+          "name": "DALI framework (NO)",
+          "mime-type": "application/pdf",
+          "filename": "DALI_framework_NO.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_framework_NO.pdf"
         }
       ]
     },
@@ -84,8 +96,14 @@
         {
           "name": "Handbook (ES)",
           "mime-type": "application/pdf",
-          "filename": "handbook_ES.pdf",
+          "filename": "Handbook_ES.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_ES.pdf"
+        },
+        {
+          "name": "DALI framework (ES)",
+          "mime-type": "application/pdf",
+          "filename": "DALI_framework_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_framework_SP.pdf"
         }
       ]
     },
@@ -102,8 +120,14 @@
         {
           "name": "Handbook (GE)",
           "mime-type": "application/pdf",
-          "filename": "handbook_GE.pdf",
+          "filename": "Handbook_GE.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_GE.pdf"
+        },
+        {
+          "name": "DALI framework (GE)",
+          "mime-type": "application/pdf",
+          "filename": "DALI_framework_GER.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_framework_GER.pdf"
         }
       ]
     }
