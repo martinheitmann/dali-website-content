@@ -76,16 +76,16 @@
       "display": "Spanish",
       "documents": [
         {
-          "name": "Facilitator's Guide 1 (ES)",
+          "name": "Facilitator's Guide (EN)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide_es_1.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
+          "filename": "facilitator_guide_EN.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitator_guide_EN.pdf"
         },
         {
-          "name": "Facilitator's Guide 2 (ES)",
+          "name": "Handbook (ES)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide_es_2.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
+          "filename": "handbook_ES.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/handbook_ES.pdf"
         }
       ]
     },
@@ -94,16 +94,16 @@
       "display": "German",
       "documents": [
         {
-          "name": "Facilitator's Guide 1 (FR)",
+          "name": "Facilitator's Guide (EN)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide_fr_1.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
+          "filename": "facilitator_guide_EN.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitator_guide_EN.pdf"
         },
         {
-          "name": "Facilitator's Guide 2 (FR)",
+          "name": "Handbook (ES)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide_fr_2.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
+          "filename": "handbook_GE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/handbook_GE.pdf"
         }
       ]
     }
