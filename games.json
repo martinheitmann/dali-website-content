@@ -13,20 +13,6 @@
       "max-duration": 45,
       "game-type": "printable",
       "ref": null,
-      "refs": [
-        {
-          "url": "https://view.genial.ly/63e231a931b82900103beadc/interactive-content-the-data-iceberg-rev20",
-          "description": "Play Data Iceberg - English"
-        },
-        {
-          "url": "https://view.genial.ly/63ea2d43abc5d7001525e555/interactive-content-data-isfjell-rev20",
-          "description": "Play Data Iceberg - Norwegian"
-        },
-        {
-          "url": "https://view.genial.ly/6411cda1bc0b58001845fb58/interactive-content-el-iceberg-de-datos",
-          "description": "Play Data Iceberg - Spanish"
-        }
-      ],
       "downloadables": []
     },
     {
@@ -61,10 +47,10 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Printable Game",
+          "name": "Print & Play",
           "mimeType": "text/plain",
-          "filename": "printable_version.txt",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/lorem.txt"
+          "filename": "DataTakeover_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataTakeover_PP.pdf"
         },
         {
           "name": "Facilitators' Manual",
