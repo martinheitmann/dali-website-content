@@ -13,7 +13,14 @@
       "max-duration": 45,
       "game-type": "printable",
       "ref": null,
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "DataIceberg_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataIceberg_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-wifi-and-data-001",
@@ -29,7 +36,14 @@
       "max-duration": 60,
       "game-type": "printable",
       "ref": null,
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "WifiData_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WifiData_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-data-takeover-001",
@@ -51,18 +65,6 @@
           "mimeType": "text/plain",
           "filename": "DataTakeover_PP.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataTakeover_PP.pdf"
-        },
-        {
-          "name": "Facilitators' Manual",
-          "mimeType": "application/pdf",
-          "filename": "facilitators_manual.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
-        },
-        {
-          "name": "Extension Pack 1",
-          "mimeType": "application/pdf",
-          "filename": "extension_pack_1.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/dummy.pdf"
         }
       ]
     },
@@ -80,7 +82,14 @@
       "max-duration": 45,
       "game-type": "printable",
       "ref": null,
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "WhereIsDataInYourStory_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WhereIsDataInYourStory_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-daliopoly-001",
@@ -96,7 +105,14 @@
       "max-duration": 60,
       "game-type": "printable",
       "ref": "https://dalicitizens.eu",
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "DataTakeover_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Daliopoly_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-game-of-phones-001",
@@ -112,7 +128,14 @@
       "max-duration": 45,
       "game-type": "printable",
       "ref": null,
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "GameOfPhones_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/GameOfPhones_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-protearn-your-data-001",
@@ -128,7 +151,14 @@
       "max-duration": 60,
       "game-type": "printable",
       "ref": null,
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "ProtearnYourData_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/ProtearnYourData_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-data-chain-001",
@@ -144,7 +174,14 @@
       "max-duration": 45,
       "game-type": "printable",
       "ref": null,
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "DataChain_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataChain_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-databi-001",
@@ -160,7 +197,14 @@
       "max-duration": 45,
       "game-type": "printable",
       "ref": null,
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "Databi_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Databi_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-dalicious-week-001",
@@ -176,7 +220,14 @@
       "max-duration": 25,
       "game-type": "printable",
       "ref": "https://dalicitizens.eu",
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "DaliciousWeek_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliciousWeek_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-dali-life-001",
@@ -192,7 +243,14 @@
       "max-duration": 90,
       "game-type": "printable",
       "ref": null,
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "DaliLife_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliLife_PP.pdf"
+        }
+      ]
     },
     {
       "id": "game-dali-data-iceberg-002",
@@ -326,7 +384,14 @@
       "max-duration": 60,
       "game-type": "printable",
       "ref": "https://dalicitizens.eu",
-      "downloadables": []
+      "downloadables": [
+        {
+          "name": "Print & Play",
+          "mimeType": "text/plain",
+          "filename": "EscapeRoom_PP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/EscapeRoom_PP.pdf"
+        }
+      ]
     }
   ]
 }
