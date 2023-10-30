@@ -48,8 +48,8 @@
         {
           "name": "Handbook (EN)",
           "mime-type": "application/pdf",
-          "filename": "handbook_ENG.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/handbook_ENG.pdf"
+          "filename": "Handbook_ENG.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_ENG.pdf"
         },
         {
           "name": "DALI framework (EN)",
