@@ -48,8 +48,8 @@
         {
           "name": "Handbook (EN)",
           "mime-type": "application/pdf",
-          "filename": "handbook_EN.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/handbook_EN.pdf"
+          "filename": "handbook_ENG.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/handbook_ENG.pdf"
         },
         {
           "name": "DALI framework (EN)",
@@ -72,8 +72,8 @@
         {
           "name": "Handbook (NO)",
           "mime-type": "application/pdf",
-          "filename": "Handbook_NO.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_NO.pdf"
+          "filename": "Handbook_NOR.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_NOR.pdf"
         },
         {
           "name": "DALI framework (NO)",
@@ -96,8 +96,8 @@
         {
           "name": "Handbook (ES)",
           "mime-type": "application/pdf",
-          "filename": "Handbook_ES.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_ES.pdf"
+          "filename": "Handbook_SPA.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_SPA.pdf"
         },
         {
           "name": "DALI framework (ES)",
@@ -120,8 +120,8 @@
         {
           "name": "Handbook (GE)",
           "mime-type": "application/pdf",
-          "filename": "Handbook_GE.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_GE.pdf"
+          "filename": "Handbook_GER.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_GER.pdf"
         },
         {
           "name": "DALI framework (GE)",
