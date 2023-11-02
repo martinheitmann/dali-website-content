@@ -46,6 +46,12 @@
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitator_guide_EN.pdf"
         },
         {
+          "name": "Facilitator's Presentation (EN)",
+          "mime-type": "application/pdf",
+          "filename": "DALI_PP_presentation.pptx",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_PP_presentation.pptx"
+        },
+        {
           "name": "Handbook (EN)",
           "mime-type": "application/pdf",
           "filename": "Handbook_ENG.pdf",
