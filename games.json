@@ -181,6 +181,28 @@
           "filename": "DataChain_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataChain_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "Data Chain 1",
+          "thumbnail_url": "https://dalicitizens.eu/wp-content/uploads/2023/11/Chain1_S-2.jpg",
+          "img_url": "https://dalicitizens.eu/wp-content/uploads/2023/11/Chain1_Ljpg-scaled.jpg"
+        },
+        {
+          "description": "Data Chain 2",
+          "thumbnail_url": "https://dalicitizens.eu/wp-content/uploads/2023/11/Chain2_S.jpg",
+          "img_url": "https://dalicitizens.eu/wp-content/uploads/2023/11/Chain2_Ljpg-scaled.jpg"
+        },
+        {
+          "description": "Data Chain 3",
+          "thumbnail_url": "https://dalicitizens.eu/wp-content/uploads/2023/11/Chain3_Sjpg.jpg",
+          "img_url": "https://dalicitizens.eu/wp-content/uploads/2023/11/Chain3_Ljpg-scaled.jpg"
+        },
+        {
+          "description": "Data Chain 4",
+          "thumbnail_url": "https://dalicitizens.eu/wp-content/uploads/2023/11/Chain4_S.png",
+          "img_url": "https://dalicitizens.eu/wp-content/uploads/2023/11/Chain4_Ljpg-scaled.jpg"
+        },
       ]
     },
     {
