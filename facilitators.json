@@ -130,10 +130,10 @@
       "display": "German",
       "documents": [
         {
-          "name": "Facilitator's Guide (EN)",
+          "name": "Facilitator's Guide (GE)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitators_guide_.pdf"
+          "filename": "facilitators_guide_GER.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitators_guide_GER.pdf"
         },
         {
           "name": "Facilitator's Presentation (EN)",
