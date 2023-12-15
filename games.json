@@ -311,6 +311,23 @@
           "filename": "DaliLife_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliLife_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "DALI Life 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DALIlife1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DALIlife1.jpg"
+        },
+        {
+          "description": "DALI Life 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DALIlife2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DALIlife2.jpg"
+        },
+        {
+          "description": "DALI Life 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DALIlife3.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DALIlife3.jpg"
+        }
       ]
     },
     {
