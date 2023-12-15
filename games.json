@@ -145,6 +145,23 @@
           "filename": "WhereIsDataInYourStory_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WhereIsDataInYourStory_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "Where is Data in your Story? 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/ds1.jpeg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/ds1.jpeg"
+        },
+        {
+          "description": "Where is Data in your Story? 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/ds2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/ds2.jpg"
+        },
+        {
+          "description": "Where is Data in your Story? 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/ds3.jpeg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/ds3.jpeg"
+        }
       ]
     },
     {
