@@ -135,6 +135,28 @@
           "filename": "GameOfPhones_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/GameOfPhones_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "Game of Phones 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/GOP1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/GOP1.jpg"
+        },
+        {
+          "description": "Game of Phones 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/GOP2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/GOP2.jpg"
+        },
+        {
+          "description": "Game of Phones 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/GOP3.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/GOP3.jpg"
+        },
+        {
+          "description": "Game of Phones 4",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/GOP4.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/GOP4.jpg"
+        }
       ]
     },
     {
