@@ -112,6 +112,23 @@
           "filename": "DataTakeover_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Daliopoly_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "Daliopoly 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dpoly1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dpoly1.jpg"
+        },
+        {
+          "description": "Daliopoly 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dpoly2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dpoly2.jpg"
+        },
+        {
+          "description": "Daliopoly 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dpoly3.JPG",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dpoly3.JPG"
+        }
       ]
     },
     {
