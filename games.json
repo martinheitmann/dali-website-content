@@ -158,6 +158,23 @@
           "filename": "ProtearnYourData_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/ProtearnYourData_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "Protearn your data 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/protearn1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/protearn1.jpg"
+        },
+        {
+          "description": "Protearn your data 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/protearn2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/protearn2.jpg"
+        },
+        {
+          "description": "Protearn your data 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/protearn3.JPG",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/protearn3.JPG"
+        },
       ]
     },
     {
