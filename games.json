@@ -288,6 +288,23 @@
           "filename": "DaliciousWeek_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliciousWeek_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "Dalicious Week 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dw1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dw1.jpg"
+        },
+        {
+          "description": "Dalicious Week 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dw2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dw2.jpg"
+        },
+        {
+          "description": "Dalicious Week 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dw3.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/dw3.jpg"
+        }
       ]
     },
     {
