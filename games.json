@@ -338,6 +338,18 @@
           "filename": "Databi_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Databi_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "Databi 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/db1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/db1.jpg"
+        },
+        {
+          "description": "Databi 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/db2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/db2.jpg"
+        }
       ]
     },
     {
