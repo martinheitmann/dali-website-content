@@ -477,7 +477,24 @@
           "description": "Play Data Iceberg - Spanish"
         }
       ],
-      "downloadables": []
+      "downloadables": [],
+      "gallery": [
+        {
+          "description": "Data Iceberg web 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DI_w1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DI_w1.jpg"
+        },
+        {
+          "description": "Data Iceberg web 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DI_w2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DI_w2.jpg"
+        },
+        {
+          "description": "Data Iceberg web 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DI_w3.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/DI_w3.jpg"
+        }
+      ]
     },
     {
       "id": "game-dali-escape-from-alcatracks-001",
