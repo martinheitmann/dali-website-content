@@ -599,7 +599,24 @@
           "description": "Play DataWheel"
         }
       ],
-      "downloadables": []
+      "downloadables": [],
+      "gallery": [
+        {
+          "description": "Datawheel 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel1.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel1.png"
+        },
+        {
+          "description": "Datawheel 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel2.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel2.png"
+        },
+        {
+          "description": "Datawheel 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel3.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel3.png"
+        }
+      ]
     },
     {
       "id": "game-dali-datafy-001",
@@ -621,7 +638,24 @@
           "description": "Play DataFy"
         }
       ],
-      "downloadables": []
+      "downloadables": [],
+      "gallery": [
+        {
+          "description": "Datafy 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy1.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy1.png"
+        },
+        {
+          "description": "Datafy 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy2.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy2.png"
+        },
+        {
+          "description": "Datafy 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy3.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy3.png"
+        }
+      ]
     },
     {
       "id": "game-dali-escape-room-001",
