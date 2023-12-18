@@ -603,18 +603,18 @@
       "gallery": [
         {
           "description": "Datawheel 1",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel1.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel1.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel1.jpg"
         },
         {
           "description": "Datawheel 2",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel2.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel2.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel2.jpg"
         },
         {
           "description": "Datawheel 3",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel3.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel3.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel3.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datawheel3.jpg"
         }
       ]
     },
@@ -642,18 +642,18 @@
       "gallery": [
         {
           "description": "Datafy 1",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy1.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy1.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy1.jpg"
         },
         {
           "description": "Datafy 2",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy2.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy2.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy2.jpg"
         },
         {
           "description": "Datafy 3",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy3.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy3.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy3.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/datafy3.jpg"
         }
       ]
     },
