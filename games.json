@@ -542,23 +542,23 @@
       "gallery": [
         {
           "description": "Game of Phones 1",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox1.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox1.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox1.jpg"
         },
         {
           "description": "Game of Phones 2",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox2.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox2.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox2.jpg"
         },
         {
           "description": "Game of Phones 3",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox3.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox3.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox3.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox3.jpg"
         },
         {
           "description": "Game of Phones 4",
-          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox4.png",
-          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox4.png"
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox4.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox4.jpg"
         }
       ]
     },
