@@ -516,7 +516,24 @@
           "description": "Play Escape from Alcatracks"
         }
       ],
-      "downloadables": []
+      "downloadables": [],
+      "gallery": [
+        {
+          "description": "Escape from Alcatracks 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/alcatracks1.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/alcatracks1.png"
+        },
+        {
+          "description": "Escape from Alcatracks 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/alcatracks2.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/alcatracks2.png"
+        },
+        {
+          "description": "Escape from Alcatracks 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/alcatracks3.png",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/alcatracks3.png"
+        }
+      ]
     },
     {
       "id": "game-dali-databox-001",
