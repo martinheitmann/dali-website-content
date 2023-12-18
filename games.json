@@ -558,22 +558,22 @@
       "downloadables": [],
       "gallery": [
         {
-          "description": "Game of Phones 1",
+          "description": "Databox 1",
           "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox1.jpg",
           "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox1.jpg"
         },
         {
-          "description": "Game of Phones 2",
+          "description": "Databox 2",
           "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox2.jpg",
           "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox2.jpg"
         },
         {
-          "description": "Game of Phones 3",
+          "description": "Databox 3",
           "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox3.jpg",
           "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox3.jpg"
         },
         {
-          "description": "Game of Phones 4",
+          "description": "Databox 4",
           "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox4.jpg",
           "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/databox4.jpg"
         }
@@ -678,7 +678,24 @@
           "filename": "EscapeRoom_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/EscapeRoom_PP_EN.pdf"
         }
+      ],
+      "gallery": [
+        {
+          "description": "Escape 1",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape3.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape3.jpg"
+        },
+        {
+          "description": "Escape 2",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape1.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape1.jpg"
+        },
+        {
+          "description": "Escape 3",
+          "thumbnail_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape2.jpg",
+          "img_url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/image-assets/escape2.jpg"
+        }
       ]
-    }
+    },
   ]
 }
