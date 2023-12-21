@@ -15,10 +15,16 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "DataIceberg_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataIceberg_PP_EN.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "text/plain",
+          "filename": "DataIceberg_PP_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataIceberg_PP_SP.pdf"
         }
       ],
       "gallery": [
@@ -55,10 +61,16 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "WifiData_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WifiData_PP_EN.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "text/plain",
+          "filename": "WifiData_PP_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WifiData_PP_SP.pdf"
         }
       ],
       "gallery": [
@@ -100,7 +112,7 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "DataTakeover_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataTakeover_PP_EN.pdf"
@@ -140,7 +152,7 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "WhereIsDataInYourStory_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WhereIsDataInYourStory_PP_EN.pdf"
@@ -180,10 +192,16 @@
       "ref": "https://dalicitizens.eu",
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "DataTakeover_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Daliopoly_PP_EN.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "text/plain",
+          "filename": "DataTakeover_PP_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Daliopoly_PP_SP.pdf"
         }
       ],
       "gallery": [
@@ -220,10 +238,16 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "GameOfPhones_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/GameOfPhones_PP_EN.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "text/plain",
+          "filename": "GameOfPhones_PP_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/GameOfPhones_PP_SP.pdf"
         }
       ],
       "gallery": [
@@ -265,7 +289,7 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "ProtearnYourData_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/ProtearnYourData_PP_EN.pdf"
@@ -305,10 +329,16 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "DataChain_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataChain_PP_EN.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "text/plain",
+          "filename": "DataChain_PP_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataChain_PP_SP.pdf"
         }
       ],
       "gallery": [
@@ -350,10 +380,16 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "Databi_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Databi_PP_EN.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "text/plain",
+          "filename": "Databi_PP_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Databi_PP_SP.pdf"
         }
       ],
       "gallery": [
@@ -385,10 +421,16 @@
       "ref": "https://dalicitizens.eu",
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "DaliciousWeek_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliciousWeek_PP_EN.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "text/plain",
+          "filename": "DaliciousWeek_PP_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliciousWeek_PP_SP.pdf"
         }
       ],
       "gallery": [
@@ -425,10 +467,16 @@
       "ref": null,
       "downloadables": [
         {
-          "name": "Print & Play (ENG)",
+          "name": "Print & Play (English)",
           "mimeType": "text/plain",
           "filename": "DaliLife_PP_EN.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliLife_PP_EN.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "text/plain",
+          "filename": "DaliLife_PP_SP.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliLife_PP_SP.pdf"
         }
       ],
       "gallery": [
