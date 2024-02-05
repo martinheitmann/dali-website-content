@@ -31,6 +31,12 @@
           "mimeType": "application/pdf",
           "filename": "DataIceberg_PP_SP.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataIceberg_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "DataIceberg_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataIceberg_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -83,6 +89,12 @@
           "mimeType": "application/pdf",
           "filename": "WifiData_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WifiData_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "WifiData_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WifiData_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -134,6 +146,12 @@
           "mimeType": "application/pdf",
           "filename": "DataTakeover_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataTakeover_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "DataTakeover_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataTakeover_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -180,6 +198,12 @@
           "mimeType": "application/pdf",
           "filename": "WhereIsDataInYourStory_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WhereIsDataInYourStory_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "WhereIsDataInYourStory_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/WhereIsDataInYourStory_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -232,6 +256,12 @@
           "mimeType": "application/pdf",
           "filename": "DataTakeover_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Daliopoly_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "DataTakeover_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Daliopoly_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -284,6 +314,12 @@
           "mimeType": "application/pdf",
           "filename": "GameOfPhones_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/GameOfPhones_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "GameOfPhones_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/GameOfPhones_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -335,6 +371,12 @@
           "mimeType": "application/pdf",
           "filename": "ProtearnYourData_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/ProtearnYourData_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "ProtearnYourData_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/ProtearnYourData_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -387,6 +429,12 @@
           "mimeType": "application/pdf",
           "filename": "DataChain_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataChain_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "DataChain_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataChain_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -444,6 +492,12 @@
           "mimeType": "application/pdf",
           "filename": "Databi_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Databi_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "Databi_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Databi_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -491,6 +545,12 @@
           "mimeType": "application/pdf",
           "filename": "DaliciousWeek_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliciousWeek_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "DaliciousWeek_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliciousWeek_PP_DE.pdf"
         }
       ],
       "gallery": [
@@ -543,6 +603,12 @@
           "mimeType": "application/pdf",
           "filename": "DaliLife_PP_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliLife_PP_NO.pdf"
+        },
+        {
+          "name": "Print & Play (German)",
+          "mimeType": "application/pdf",
+          "filename": "DaliLife_PP_DE.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DaliLife_PP_DE.pdf"
         }
       ],
       "gallery": [
