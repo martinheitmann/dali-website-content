@@ -152,6 +152,12 @@
           "mimeType": "application/pdf",
           "filename": "DataTakeover_PP_DE.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataTakeover_PP_DE.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "application/pdf",
+          "filename": "DataTakeover_PP_ES.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DataTakeover_PP_ES.pdf"
         }
       ],
       "gallery": [
@@ -377,6 +383,12 @@
           "mimeType": "application/pdf",
           "filename": "ProtearnYourData_PP_DE.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/ProtearnYourData_PP_DE.pdf"
+        },
+        {
+          "name": "Print & Play (Spanish)",
+          "mimeType": "application/pdf",
+          "filename": "ProtearnYourData_PP_ES.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/ProtearnYourData_PP_ES.pdf"
         }
       ],
       "gallery": [
