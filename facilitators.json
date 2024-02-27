@@ -72,14 +72,14 @@
         {
           "name": "Facilitator's Guide (EN)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitators_guide_.pdf"
+          "filename": "Facilitators_Guide_NO.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Facilitators_Guide_NO.pdf"
         },
         {
           "name": "Facilitator's Presentation (EN)",
           "mime-type": "application/pdf",
-          "filename": "DALI_PP_presentation.pptx",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_PP_presentation.pptx"
+          "filename": "DALI_PP_presentation_NO.pptx",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_PP_presentation_NO.pptx"
         },
         {
           "name": "Handbook (NO)",
@@ -100,16 +100,16 @@
       "display": "Spanish",
       "documents": [
         {
-          "name": "Facilitator's Guide (EN)",
+          "name": "Facilitator's Guide (ES)",
           "mime-type": "application/pdf",
-          "filename": "facilitators_guide.pdf",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitators_guide_.pdf"
+          "filename": "Facilitators_Guide_ES.pdf",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Facilitators_Guide_ES.pdf"
         },
         {
-          "name": "Facilitator's Presentation (EN)",
+          "name": "Facilitator's Presentation (ES)",
           "mime-type": "application/pdf",
-          "filename": "DALI_PP_presentation.pptx",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_PP_presentation.pptx"
+          "filename": "DALI_PP_presentation_ES.pptx",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_PP_presentation_ES.pptx"
         },
         {
           "name": "Handbook (ES)",
@@ -130,25 +130,25 @@
       "display": "German",
       "documents": [
         {
-          "name": "Facilitator's Guide (GE)",
+          "name": "Facilitator's Guide (DE)",
           "mime-type": "application/pdf",
           "filename": "facilitators_guide_GER.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/facilitators_guide_GER.pdf"
         },
         {
-          "name": "Facilitator's Presentation (EN)",
+          "name": "Facilitator's Presentation (DE)",
           "mime-type": "application/pdf",
-          "filename": "DALI_PP_presentation.pptx",
-          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_PP_presentation.pptx"
+          "filename": "DALI_PP_presentation_DE.pptx",
+          "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_PP_presentation_DE.pptx"
         },
         {
-          "name": "Handbook (GE)",
+          "name": "Handbook (DE)",
           "mime-type": "application/pdf",
           "filename": "Handbook_GER.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Handbook_GER.pdf"
         },
         {
-          "name": "DALI framework (GE)",
+          "name": "DALI framework (DE)",
           "mime-type": "application/pdf",
           "filename": "DALI_framework_GER.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_framework_GER.pdf"
