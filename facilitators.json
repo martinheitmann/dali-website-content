@@ -70,13 +70,13 @@
       "display": "Norwegian",
       "documents": [
         {
-          "name": "Facilitator's Guide (EN)",
+          "name": "Facilitator's Guide (NO)",
           "mime-type": "application/pdf",
           "filename": "Facilitators_Guide_NO.pdf",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/Facilitators_Guide_NO.pdf"
         },
         {
-          "name": "Facilitator's Presentation (EN)",
+          "name": "Facilitator's Presentation (NO)",
           "mime-type": "application/pdf",
           "filename": "DALI_PP_presentation_NO.pptx",
           "url": "https://raw.githubusercontent.com/martinheitmann/dali-website-content/main/documents/DALI_PP_presentation_NO.pptx"
